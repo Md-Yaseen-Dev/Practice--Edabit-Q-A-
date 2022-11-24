@@ -11,3 +11,21 @@
 -> [Reverse an array](./5.%20Reverse%20an%20Array.js)
 
 -> [Simple Array manipulation](./6.%20Simple%20Array%20Manipulation.js)
+
+-> [Destructuring arrays](./7.Destructuring%20Arrays%201.js)
+
+-> [Return the last element](./8.%20Return%20the%20last%20element%20in%20an%20array.js)
+
+-> [Convert the array to a string](./9.%20Convert%20an%20array%20to%20a%20string.js)
+
+-> [Concatenating two integer arrays](./10.%20Concatenating%20Two%20integer%20arrays.js)
+
+-> [Find the index](./11.%20find%20the%20index.js)
+
+-> [Return types](./12.%20Return%20Types.js)
+
+-> [Array indexing](./13.%20Array%20Indexing.js)
+
+-> [Find the index part-1](./14.%20Find%20the%20index(part%201).js)
+
+-> [Buggy code part-3](./15.%20Buggy%20code(part%203).js)
