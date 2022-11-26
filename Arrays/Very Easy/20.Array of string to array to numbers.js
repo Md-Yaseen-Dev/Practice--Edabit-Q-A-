@@ -17,7 +17,7 @@ function toNumberArray(arr) {
 
  return arr.map(element =>parseFloat( element));
 
- 
+
 
     // return arr.map(element => (+element)); // by using unary operator u can change to numbers i.e + symbol
 
