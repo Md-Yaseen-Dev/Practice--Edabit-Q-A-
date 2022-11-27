@@ -48,3 +48,13 @@
 
 -> [24 . Destructring Array- IV](./24.%20Destructuring%20arrays(iv)%20.js)
 
+
+->[25. Square and cubes ](25.%20Squares%20and%20cubes.js)
+
+->[26. Destrucuring array -III ](./26.%20Destructuring%20array%20III%20.js)
+
+->[27. Half, Quarter, Eighth ](./27.Half%2C%20Quarter%20and%20Eighth.js)
+
+
+
+
