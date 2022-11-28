@@ -56,5 +56,8 @@
 ->[27. Half, Quarter, Eighth ](./27.Half%2C%20Quarter%20and%20Eighth.js)
 
 
+->[28. Recreating the String.length property](./28.%20Recreating%20the%20String.length%20property.js)
+
+->[29. Shapes with N sides](./29.Shapes%20with%20N%20sides.js)
 
 
