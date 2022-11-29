@@ -61,3 +61,11 @@
 ->[29. Shapes with N sides](./29.Shapes%20with%20N%20sides.js)
 
 
+->[30. Multiply every array item by two ](./30.%20Multiply%20every%20array%20item%20by%20two.js)
+
+->[31. Array of word lengths](./31.%20Array%20of%20word%20Lengths.js)
+
+->[32. Rotate the array by one](./32.%20Rotate%20the%20array%20by%20one.js)
+
+->[33. Invert an array](./33.%20Invert%20an%20array.js)
+
