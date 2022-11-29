@@ -20,3 +20,12 @@ console.log(getMultipliedArr([2, 5, 3]));
 console.log(getMultipliedArr([1, 86, -5]));
 
 console.log(getMultipliedArr([5, 382, 0]));
+
+// function s(arr) {
+
+//     for (i = 0; i < arr.length; i++) {
+//         arr[i]= arr[i] * 2 ; 
+//     }
+//    return arr;
+// }
+// console.log(s([2,3,4]))
