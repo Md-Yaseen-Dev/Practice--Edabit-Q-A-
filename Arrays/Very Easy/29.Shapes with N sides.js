@@ -26,7 +26,7 @@
 
 function nsidedshape(n) {
 
-    switch (n) { Array
+    switch (n) { 
         case 1: n = "circle";
             break;
         case 2: n = "semi-circle";
