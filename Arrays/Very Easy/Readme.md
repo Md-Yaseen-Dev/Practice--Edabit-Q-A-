@@ -69,3 +69,18 @@
 
 ->[33. Invert an array](./33.%20Invert%20an%20array.js)
 
+->[34. Spaces between each character ](./34.%20Spaces%20between%20each%20Character.js)
+
+->[35. Get the file name ](./35.%20Get%20the%20file%20name.js)
+
+->[36. Destructuring Array II ](./36.%20Destructuring%20Arrays%20II%20.js)
+
+->[37. Get the sum of all array elements](./37.%20Get%20the%20sum%20of%20all%20array%20elements.js)
+
+->[38. Bulgary series 14: adjective total ](./38.%20Burglary%20series(14)%20adjectives%20total.js)
+
+->[39. Even or Odd](./39.Even%20or%20add.js)
+
+->[40. Array from range of numbers ](./40.%20Array%20from%20a%20range%20of%20numbers.js)
+
+->[41. Difference of volumes of cuboids](./41.%20Difference%20of%20volumesof%20cuboids.js)
