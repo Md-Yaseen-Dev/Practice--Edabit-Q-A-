@@ -26,7 +26,7 @@
 
 function nsidedshape(n) {
 
-    switch (n) {
+    switch (n) { Array
         case 1: n = "circle";
             break;
         case 2: n = "semi-circle";
@@ -55,3 +55,37 @@ console.log(nsidedshape(3));
 console.log(nsidedshape(1));
 console.log(nsidedshape(9));
 
+
+
+// // we can create n sides using objects and arrays too
+// function nsidedshape(m) {
+
+//     var obj = {
+//         1: "circle",
+//         2: "semi-circle",
+//         3: "triangle",
+//         4: "square",
+//         5: "pentagon",
+//         6: "hexagon",
+//         7: "heptagon",
+//         8: "octagon",
+//         9: "nonagon",
+//         10: "decagon",
+//     }
+//     return obj[m];
+// }
+// console.log(nsidedshape(3));
+// console.log(nsidedshape(1));
+// console.log(nsidedshape(10));
+
+
+// function nsidedshape(n) {
+
+//     var arr = ["zero", "circle", "semi-circle", "triangle", "square", "pentagaon", "hexagon", "heptagon", "octagon", "nonagon", "decagon"];
+
+//     return arr.at(n);      // can i do this
+// }
+
+// console.log(nsidedshape(2));
+// console.log(nsidedshape(4));
+// console.log(nsidedshape(6));
