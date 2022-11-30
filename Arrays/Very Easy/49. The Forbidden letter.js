@@ -13,7 +13,7 @@
 
 function forbiddenLetter(char, arr) {
 
-    let forbidden = arr.every(element => (element.includes(char)));
+    let forbidden = arr.every(element => (element.includes(char)));  
     return forbidden
 }
 

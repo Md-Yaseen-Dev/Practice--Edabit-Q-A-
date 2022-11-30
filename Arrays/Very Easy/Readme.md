@@ -93,3 +93,7 @@
 ->[43. Add the index](./43.%20Add%20the%20index.js)
 
 ->[44. Difference of volumes of cuboids](./41.%20Difference%20of%20volumesof%20cuboids.js)
+
+->[45. learn lodash:_ fill an array with new values](./45.%20Learn%20lodash_%20fill%20an%20array%20with%20new%20values.js)
+
+->[46. Filter Strings from Array ](./46.%20Filter%20Strings%20from%20Array.js)
