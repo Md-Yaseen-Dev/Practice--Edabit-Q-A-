@@ -11,8 +11,9 @@
 // Expect numbers with 0 and 1 only.
 
 function integerBoolean(n) {
-     let a  = [...n ];
-    // let a = n.split("");                // is this correct.
+     let a  = [...n ];            // --spread operator
+    // let a = n.split("");        -- split method
+    //  let a =  Array.from(n)  -- array from method                           // is this correct.
     return a.map(element => (element == 1) ? true : false)
 }
 
