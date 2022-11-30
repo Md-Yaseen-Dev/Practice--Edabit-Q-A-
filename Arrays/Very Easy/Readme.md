@@ -14,39 +14,39 @@
 
 -> [7. Destructuring arrays](./7.Destructuring%20Arrays%201.js)
 
--> [8 . Return the last element](./8.%20Return%20the%20last%20element%20in%20an%20array.js)
+-> [8. Return the last element](./8.%20Return%20the%20last%20element%20in%20an%20array.js)
 
--> [9 . Convert the array to a string](./9.%20Convert%20an%20array%20to%20a%20string.js)
+-> [9. Convert the array to a string](./9.%20Convert%20an%20array%20to%20a%20string.js)
 
--> [10 . Concatenating two integer arrays](./10.%20Concatenating%20Two%20integer%20arrays.js)
+-> [10. Concatenating two integer arrays](./10.%20Concatenating%20Two%20integer%20arrays.js)
 
--> [11 . Find the index](./11.%20find%20the%20index.js)
+-> [11. Find the index](./11.%20find%20the%20index.js)
 
--> [12 . Return types](./12.%20Return%20Types.js)
+-> [12. Return types](./12.%20Return%20Types.js)
 
--> [13 . Array indexing](./13.%20Array%20Indexing.js)
+-> [13. Array indexing](./13.%20Array%20Indexing.js)
 
--> [14 . Find the index part-1](./14.%20Find%20the%20index(part%201).js)
+-> [14. Find the index part-1](./14.%20Find%20the%20index(part%201).js)
 
--> [15 . Buggy code part-3](./15.%20Buggy%20code(part%203).js)
+-> [15. Buggy code part-3](./15.%20Buggy%20code(part%203).js)
 
--> [16 . Find the index part -2](./16.%20Find%20the%20index%20(part%20%232).js)
+-> [16. Find the index part -2](./16.%20Find%20the%20index%20(part%20%232).js)
 
--> [17 . Check if an array contains given number](./17.%20Check%20if%20an%20array%20contains%20a%20given%20number.js)
+-> [17. Check if an array contains given number](./17.%20Check%20if%20an%20array%20contains%20a%20given%20number.js)
 
--> [18 . Stratergy (50-30-20)](./18.%20Strategy(50-30-20).js)
+-> [18. Stratergy (50-30-20)](./18.%20Strategy(50-30-20).js)
 
--> [19 . Less than , Greater than](./19.Less%20than%2C%20Greater%20than.js)
+-> [19. Less than , Greater than](./19.Less%20than%2C%20Greater%20than.js)
 
--> [20 . Array of  string to array to numbers](./20.Array%20of%20string%20to%20array%20to%20numbers.js)
+-> [20. Array of  string to array to numbers](./20.Array%20of%20string%20to%20array%20to%20numbers.js)
 
--> [21 . Convert all array items to string ](./21.Convert%20all%20array%20items%20to%20string.js)
+-> [21. Convert all array items to string ](./21.Convert%20all%20array%20items%20to%20string.js)
 
--> [22 . Similar Bread](./22.%20Similar%20Bread.js)
+-> [22. Similar Bread](./22.%20Similar%20Bread.js)
 
--> [23 . First class, second class, third class](./23.First%20Class%2C%20Second%20class%2C%20and%20third%20class%20levers%20.js)
+-> [23. First class, second class, third class](./23.First%20Class%2C%20Second%20class%2C%20and%20third%20class%20levers%20.js)
 
--> [24 . Destructring Array- IV](./24.%20Destructuring%20arrays(iv)%20.js)
+-> [24. Destructring Array- IV](./24.%20Destructuring%20arrays(iv)%20.js)
 
 
 ->[25. Square and cubes ](25.%20Squares%20and%20cubes.js)
@@ -97,3 +97,13 @@
 ->[45. learn lodash:_ fill an array with new values](./45.%20Learn%20lodash_%20fill%20an%20array%20with%20new%20values.js)
 
 ->[46. Filter Strings from Array ](./46.%20Filter%20Strings%20from%20Array.js)
+
+
+->[47. Binary Array to Decimal](./47.%20Binary%20Array%20to%20Decimal.js)
+
+
+->[48. True ones, False zero](./48.%20True%20ones%2CFalse%20Zeros.js)
+
+->[49. The Forbidden letter](./49.%20The%20Forbidden%20letter.js)
+
+->[50. Burglary series(11): Say what](./50.%20Burglary%20series(11)%20Say%20what.js)
