@@ -107,3 +107,5 @@
 ->[49. The Forbidden letter](./49.%20The%20Forbidden%20letter.js)
 
 ->[50. Burglary series(11): Say what](./50.%20Burglary%20series(11)%20Say%20what.js)
+
+->[51. Desigining  rugs](./51.%20Designing%20Rugs.js)
