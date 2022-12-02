@@ -109,3 +109,5 @@
 ->[50. Burglary series(11): Say what](./50.%20Burglary%20series(11)%20Say%20what.js)
 
 ->[51. Desigining  rugs](./51.%20Designing%20Rugs.js)
+
+->[52. Cleaning up messy arrays ](./52.Cleaning%20up%20messy%20arrays.js)
