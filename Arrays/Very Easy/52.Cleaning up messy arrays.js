@@ -55,13 +55,94 @@
 
 
 function cleanUpArray(arr) {
-    var x = arr.map(Number);
-    var a = x.filter((element) => (element % 2 == 0));
-    var b = x.filter((element) => (element % 2 !== 0));
 
-    return [a, b];
+    // var x = arr.map(Number);
+    // console.log(x);
+    // var a = x.filter((element) => (element % 2 == 0));
+    // var b = x.filter((element) => (element % 2 !== 0));
+
+    // return [a, b];
+    const oddNumber = [];
+    const evenNumber = [];
+
+
+
+    const oddAndEven = (number) => {
+
+        const newNumber = +number
+        if (newNumber % 2 == 0) {
+            evenNumber.push(newNumber);
+        }
+        else {
+            oddNumber.push(newNumber);
+        }
+    }
+    arr.forEach(oddAndEven);
+    return [oddNumber, evenNumber]
+
+
+    // --- for loop---
+    for (let i = 0; i < arr.length; i++) {
+
+
+        const newNumber = +arr[i];
+        if (newNumber % 2 == 0) {
+            evenNumber.push(newNumber);
+        }
+        else {
+            oddNumber.push(newNumber);
+        }
+    }
+
+
+
+
+    
+    
+
+
+    // // ------ for of function
+
+
+    for (const number of arr) {
+
+        console.log(number)
+        const newNumber = +number
+        if (newNumber % 2 == 0) {
+            evenNumber.push(newNumber);
+        }
+        else {
+            oddNumber.push(newNumber);
+        }
+    }
+    return [oddNumber, evenNumber]
+
+
+
+
+    // ---- for in  ----------
+
+
+    for (const number in arr) {
+        console.log(number);
+        const newNumber = +arr[number]
+        console.log()
+        if (newNumber % 2 == 0) {
+            evenNumber.push(newNumber);
+        }
+        else {
+            oddNumber.push(newNumber);
+        }
+    }
+    return [oddNumber, evenNumber]
+
+
+
 }
+
+
 console.log(cleanUpArray(["8"]));
-console.log(cleanUpArray(["8"]));
+console.log(cleanUpArray(["11"]));
 console.log(cleanUpArray(["7", "4", "8"]));
 console.log(cleanUpArray(["9", "4", "5", "8"]));
+
