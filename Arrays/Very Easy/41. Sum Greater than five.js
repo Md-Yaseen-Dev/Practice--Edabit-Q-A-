@@ -13,7 +13,7 @@
 function sumFive(arr) {
    const filter = arr.filter(element => element > 5);  // Is this correct way.
 
-   return filter.reduce((a,b)=> a + b , 0);
+   return filter.reduce((a,b)=> a + b ,0);
 };
 console.log(sumFive([1, 5, 20, 30, 4, 9, 18]));
 console.log(sumFive([1,2,3,4]));
