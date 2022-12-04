@@ -12,15 +12,26 @@
 // Notes
 // N/A
 
-function birthdayCakeCandles(arr){
+function birthdayCakeCandles(arr) {
 
 
-    var  max = arr.reduce((a,b) => Math.max(a,b));
-    var a = arr.filter(element =>(element) == max);
+    // var  max = arr.reduce((a,b) => Math.max(a,b));
+    // var a = arr.filter(element =>(element) == max);
 
-    return a.length;
+    // return a.length;
+
+    let BiggestValue = 0;
+    for (i = 0; i < arr.length; i++) {
+
+        if (BiggestValue < arr[i]) {
+
+            BiggestValue = arr[i];
+        }
+    }
+    const str1 = arr.filter(element => element == BiggestValue);
+    return str1.length;
 }
 
-console.log(birthdayCakeCandles([4,4,1,3]));
+console.log(birthdayCakeCandles([4, 4, 1, 3]));
 console.log(birthdayCakeCandles([3, 2, 1, 3]));
 console.log(birthdayCakeCandles([82, 49, 82, 82, 41, 82, 15, 63, 38, 25]));
