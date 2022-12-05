@@ -16,11 +16,10 @@ function rangeOfNum(start, end) {
 
     let arr = [];
 
-    for (i = start; i < end; i++) {    // i dont think it is the right way of solving this challenge. but it matches.
+    for (i = start; i < end - 1; i++) {    // i dont think it is the right way of solving this challenge. but it matches.
 
-        arr.push(start++);
+        arr.push(++start);
     }
-    arr.shift();
     return arr;
 }
 console.log(rangeOfNum(2, 4));
