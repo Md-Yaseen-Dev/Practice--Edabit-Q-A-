@@ -113,3 +113,5 @@
 ->[52. Cleaning up messy arrays ](./52.Cleaning%20up%20messy%20arrays.js)
 
 ->[53. Tallest Birthday cake candles ](./53.%20Tallest%20Birthday%20Cake%20Candles.js)
+
+->[Sums of Minimums](./54.%20Sum%20of%20Minimums.js)
