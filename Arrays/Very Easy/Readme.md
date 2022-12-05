@@ -114,4 +114,4 @@
 
 ->[53. Tallest Birthday cake candles ](./53.%20Tallest%20Birthday%20Cake%20Candles.js)
 
-->[Sums of Minimums](./54.%20Sum%20of%20Minimums.js)
+->[54. Sums of Minimums](./54.%20Sum%20of%20Minimums.js)
