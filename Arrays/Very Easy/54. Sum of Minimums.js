@@ -34,30 +34,28 @@ function sumMinimums(arr) {
 
 
 
-// function getMinimum(arr) {
+function getMaximum(arr) {
 
-//     const output = [];
+    const output = [0, 0, 0, 0];
 
-//     for (let i = 0; i < arr.length; i++) {
+    for (let i = 0; i < arr.length; i++) {
 
 
-//         for (let j = 1; j < arr[i].length; j++) {
+        for (let j = 1; j < arr[i].length; j++) {
 
-//             let min1 = arr[i][0];
-//             if (arr[i][j] < arr[i][j - 1]) {
+            if (arr[i][j] > output[i]) {
 
-//                 min1 = output.push(arr[i][j]);
+                output[i] = arr[i][j]
 
-//             }
-//             output.push(min1);
+            }
 
-//         }
+        }
 
-//     }
+    }
 
-//     return output;
-// }
-// console.log(getMinimum([[2, 1, 3, 4, 5], [5, 6, 7, 8,], [20, 21, 34, 56, 100], [1, 2, 3]]));
+    return output;
+}
+console.log(getMaximum([[2, 1, 3, 4, 5], [5, 6, 7, 8,], [20, 21, 34, 56, 100], [1, 2, 3]]));
 
 
 
@@ -75,10 +73,10 @@ function getMinArray(arr) {
                 min = arr[i][j];
             }
         }
-        i++;  
+        i++;
         result.push(min);
     }
     return result;
 
 }
-console.log(getMinArray([[1,2,3,4,5],[5,6,7,8,9],[20,21,34,56,100]]));
+console.log(getMinArray([[1, 2, 3, 4, 5], [5, 6, 7, 8, 9], [20, 21, 34, 56, 100]]));
