@@ -27,9 +27,31 @@ function largestNumbers(n, arr) {
     // }
 
     // return bignum
-    
 
-    const smallTobig=  arr.sort((a, b) => { return b-a}).slice(0, n)
+    // ---- second largest number -------
+
+
+    // let bigNum = 0
+
+    // let secondbigNum = 0;
+
+    // for (let i = 0; i < arr.length; i++) {
+
+    //     if (arr[i] > bigNum) {
+
+    //         secondbigNum = bigNum;
+
+    //         bigNum = arr[i];
+
+    //     }
+    //     else if ((arr[i] > secondbigNum && arr[i] != bigNum)) {
+
+    //         secondbigNum = arr[i]
+    //     }
+    // }
+    // return [bigNum,]
+
+    const smallTobig = arr.sort((a, b) => { return b - a }).slice(0, n)
 
     return smallTobig.reverse()
 
