@@ -34,28 +34,29 @@ function sumMinimums(arr) {
 
 
 
-function getMaximum(arr) {
+function getMinimum(arr) {
 
-    const output = [0, 0, 0, 0];
+    const output = [];
 
     for (let i = 0; i < arr.length; i++) {
 
-
+        let min1 = arr[i][0];
         for (let j = 1; j < arr[i].length; j++) {
 
-            if (arr[i][j] > output[i]) {
+            if (arr[i][j] < min1  /*arr[i][j-1] */  ) {
 
-                output[i] = arr[i][j]
+                min1 = arr[i][j];
 
             }
 
         }
+        output.push(min1);
 
     }
 
     return output;
 }
-console.log(getMaximum([[2, 1, 3, 4, 5], [5, 6, 7, 8,], [20, 21, 34, 56, 100], [1, 2, 3]]));
+console.log(getMinimum([[2, 1, 3, 4, 5], [5, 6, 3, 8,], [20, 21, 34, 56, 100], [1, 2, 3]]));
 
 
 
