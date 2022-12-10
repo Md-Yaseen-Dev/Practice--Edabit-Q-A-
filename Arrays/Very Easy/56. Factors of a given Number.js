@@ -15,5 +15,15 @@
 // Return an empty array if the given number is less than 1.
 
 function findFactors(num) {
-	
+    let arr = []
+    for (i = 1; i <= num; i++) {
+        if (num % i == 0) {
+            arr.push(i);
+        }
+    }
+    return  arr;
 }
+console.log(findFactors(9));
+console.log(findFactors(12));
+console.log(findFactors(20));
+console.log(findFactors(0));
