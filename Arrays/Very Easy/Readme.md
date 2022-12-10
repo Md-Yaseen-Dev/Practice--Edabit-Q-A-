@@ -117,3 +117,5 @@
 ->[54. Sums of Minimums](./54.%20Sum%20of%20Minimums.js)
 
 ->[55. Largest Numbers](./55.%20Largest%20Numbers.js)
+
+->[56. Factors of a given number](./56.%20Factors%20of%20a%20given%20Number.js)
