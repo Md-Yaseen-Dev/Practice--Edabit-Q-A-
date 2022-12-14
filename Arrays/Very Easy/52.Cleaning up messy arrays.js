@@ -67,25 +67,25 @@ function cleanUpArray(arr) {
 
 
 
-    const oddAndEven = (number) => {
+    // const oddAndEven = (number) => {
 
-        const newNumber = +number
-        if (newNumber % 2 == 0) {
-            evenNumber.push(newNumber);
-        }
-        else {
-            oddNumber.push(newNumber);
-        }
-    }
-    arr.forEach(oddAndEven);
-    return [oddNumber, evenNumber]
+    //     const newNumber = +number
+    //     if (newNumber % 2 == 0) {
+    //         evenNumber.push(newNumber);
+    //     }
+    //     else {
+    //         oddNumber.push(newNumber);
+    //     }
+    // }
+    // arr.forEach(oddAndEven);
+    // return [oddNumber, evenNumber]
 
 
     // --- for loop---
     for (let i = 0; i < arr.length; i++) {
 
 
-        const newNumber = +arr[i];
+        const newNumber = +arr[i];  // + is used to change into number - it converts from sttring to number
         if (newNumber % 2 == 0) {
             evenNumber.push(newNumber);
         }
@@ -94,6 +94,7 @@ function cleanUpArray(arr) {
         }
     }
 
+    return [oddNumber , evenNumber]
 
 
 
@@ -101,40 +102,40 @@ function cleanUpArray(arr) {
     
 
 
-    // // ------ for of function
+    // // // ------ for of function
 
 
-    for (const number of arr) {
+    // for (const number of arr) {
 
-        console.log(number)
-        const newNumber = +number
-        if (newNumber % 2 == 0) {
-            evenNumber.push(newNumber);
-        }
-        else {
-            oddNumber.push(newNumber);
-        }
-    }
-    return [oddNumber, evenNumber]
-
-
+    //     console.log(number)
+    //     const newNumber = +number
+    //     if (newNumber % 2 == 0) {
+    //         evenNumber.push(newNumber);
+    //     }
+    //     else {
+    //         oddNumber.push(newNumber);
+    //     }
+    // }
+    // return [oddNumber, evenNumber]
 
 
-    // ---- for in  ----------
 
 
-    for (const number in arr) {
-        console.log(number);
-        const newNumber = +arr[number]
-        console.log()
-        if (newNumber % 2 == 0) {
-            evenNumber.push(newNumber);
-        }
-        else {
-            oddNumber.push(newNumber);
-        }
-    }
-    return [oddNumber, evenNumber]
+    // // ---- for in  ----------
+
+
+    // for (const number in arr) {
+    //     console.log(number);
+    //     const newNumber = +arr[number]
+    //     console.log()
+    //     if (newNumber % 2 == 0) {
+    //         evenNumber.push(newNumber);
+    //     }
+    //     else {
+    //         oddNumber.push(newNumber);
+    //     }
+    // }
+    // return [oddNumber, evenNumber]
 
 
 

@@ -12,6 +12,6 @@ const arr = ["eyes", "nose", "lips", "ears"];
 
 // var [lips = arr[2]] = arr; // it is returning first item of an array.
 
-let [eyes, nose, lips, ear] = arr;
+let [a,b,c,d] = arr;
 
-console.log(lips);
+console.log(d);
