@@ -21,16 +21,23 @@
 
 function arrIndex(arr, idx) {
     let output = [null]
-    for (i = 0; i < arr.length; i++) {
+    // for (i = 0; i < arr.length; i++) {
 
-        for (j = 0; j < arr[i].length; j++) {
-            output.push(arr[i][j])
+    //     for (j = 0; j < arr[i].length; j++) {
+    //         output.push(arr[i][j])
 
 
+    //     }
+    for (const number of arr) {
+
+        for (const item of number) {
+
+            output.push(item)
         }
+    
 
-    }
-    return idx.map(lst => output[lst]).join("")
+}
+return idx.map(lst => output[lst]).join("")
 }
 
 console.log(arrIndex([["m", "u", "b"], ["a", "s", "h"], ["i", "r", "1"]], [1, 3, 5, 8]))
