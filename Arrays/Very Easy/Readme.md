@@ -121,3 +121,5 @@
 ->[56. Factors of a given number](./56.%20Factors%20of%20a%20given%20Number.js)
 
 ->[57.Array index](./57.%20Array%20Index.js)
+
+->[58.Chinese Zodiac](./58.%20Chinese%20Zodiac.js)
