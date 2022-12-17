@@ -123,3 +123,5 @@
 ->[57.Array index](./57.%20Array%20Index.js)
 
 ->[58.Chinese Zodiac](./58.%20Chinese%20Zodiac.js)
+
+->[Arthimetic progression](./59.%20Arthimetic%20progression.js)
