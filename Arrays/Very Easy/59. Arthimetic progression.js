@@ -16,8 +16,8 @@
 // N/A
 
 function arithmeticProgression(start, diff, n) {
-    let arr = [];
-    arr[0] = start;
+    let arr = [start];
+    // arr[0] = start;
     let a = start;
 
     for (i = 1; i < n; i++) {
@@ -26,7 +26,7 @@ function arithmeticProgression(start, diff, n) {
         arr[i] = a;
 
     }
-    return arr.join(",");
+    return arr.toString();  
 }
 
 console.log(arithmeticProgression(1, 2, 5));
