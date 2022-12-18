@@ -124,6 +124,6 @@
 
 ->[58.Chinese Zodiac](./58.%20Chinese%20Zodiac.js)
 
-->[Arthimetic progression](./59.%20Arthimetic%20progression.js)
+->[59.Arthimetic progression](./59.%20Arthimetic%20progression.js)
 
 ->[60.Trimmed Averages](./60.%20Trimmed%20Averages.js)
