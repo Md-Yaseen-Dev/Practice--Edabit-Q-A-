@@ -127,3 +127,5 @@
 ->[59.Arthimetic progression](./59.%20Arthimetic%20progression.js)
 
 ->[60.Trimmed Averages](./60.%20Trimmed%20Averages.js)
+
+->[Return last item](./61.%20Return%20Last%20item.js)
