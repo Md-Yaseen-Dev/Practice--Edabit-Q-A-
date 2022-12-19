@@ -15,8 +15,8 @@
 function lastItem(input) {
 
 
-    
-    return input.slice(-1);
+
+    return (input.length == 0) ? undefined : input.slice(-1).toString();
 
 }
 console.log(lastItem([0, 4, 19, 34, 50, -9, 2]));
