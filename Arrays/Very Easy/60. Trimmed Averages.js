@@ -28,16 +28,20 @@ function trimmedAverages(arr) {
             smallestNum = arr[i]
         }
     }
+
+
     const newarr = arr.filter(elem => (elem != biggestNum) && (elem != smallestNum));
 
-    // for (j = 0; j < newarr.length; j++) {
+    for (j = 0; j < newarr.length; j++) {
 
-    //     newarr[j] = newarr[j] / newarr.length
-    // }
-    return newarr.reduce((a, b) => (a + b));
+        newarr[j] = newarr[j] / newarr.length;
+    }
+    return (arr[0] == arr[1]) ? arr[0] : newarr.reduce((a, b) => (a + b));
 }
 
 console.log(trimmedAverages([4, 5, 7, 100]));
 console.log(trimmedAverages([10, 25, 5, 15, 20]));
-// console.log(trimmedAverages([1, 1, 1]));
+console.log(trimmedAverages([1, 1, 1]));
+
+
 
