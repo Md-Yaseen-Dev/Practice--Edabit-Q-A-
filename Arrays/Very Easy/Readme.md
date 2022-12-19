@@ -128,4 +128,4 @@
 
 ->[60.Trimmed Averages](./60.%20Trimmed%20Averages.js)
 
-->[Return last item](./61.%20Return%20Last%20item.js)
+->[61.Return last item](./61.%20Return%20Last%20item.js)
