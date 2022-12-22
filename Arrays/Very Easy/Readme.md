@@ -131,3 +131,5 @@
 ->[61.Return last item](./61.%20Return%20Last%20item.js)
 
 ->[62. Age Difference between spouse](./62.%20Age%20Difference%20Between%20Spouses.js)
+
+->[63.Outlier Number](./63.Outlier%20Number.js)
