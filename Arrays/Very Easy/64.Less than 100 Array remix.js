@@ -11,7 +11,7 @@
 // N/A
 
 function arrayLessThan100(arr) {
-    let sum = arr[0]
+    let sum = arr[0];
     for (i = 0; i < arr.length; i++) {
 
         sum += arr[i]
