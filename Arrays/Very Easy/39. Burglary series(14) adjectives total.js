@@ -11,7 +11,7 @@
 // The list will never be empty (no empty object).
 
 function totalAmountAdjectives(obj){
-    return Object.keys(obj).length;
+    return Object.values(obj).length
 
 }
 
