@@ -14,3 +14,29 @@
 // Notes
 // No empty array in Tests.
 // Each array element ≥ 0.
+
+function arraySum(arr) {
+
+    const evenNumber = arr.filter(elem => elem % 2 == 0);
+    const oddNumber = arr.filter(elem => elem % 2 !== 0);
+    const evensqrt = evenNumber.map(elem => Math.pow(elem, 2));
+    const oddsqrt = oddNumber.map(elem => Math.sqrt(elem));
+
+    // const even = evensqrt.reduce((a, b) => a + b);
+    // const odd = oddsqrt.reduce((a, b) => a + b);
+
+
+    const concat = evensqrt.concat(oddsqrt);
+
+    const RoundedArr = concat.reduce((a, b) => a + b);
+
+    return RoundedArr.toFixed(2);
+
+
+
+
+};
+
+console.log(arraySum([2, 4, 9]));
+console.log(arraySum([1, 3, 3, 1, 10]));
+console.log(arraySum([1, 31, 3, 11, 0]))
