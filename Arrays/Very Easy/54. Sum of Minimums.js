@@ -15,48 +15,48 @@
 // N/A
 
 
-function sumMinimums(arr) {
+// function sumMinimums(arr) {
 
-    let smallestnum = arr[0];
-    console.log(smallestnum)
+//     let smallestnum = arr[0];
+//     console.log(smallestnum)
 
-    for (i = 1; i < arr.length; i++) {
-        if (arr[i] < smallestnum) {
-            smallestnum = arr[i];
-            console.log(smallestnum)
-        }
-    }
-    // return smallestnum;
-
-
-    // return arr.map(item => Math.min(...item));
-}
+//     for (i = 1; i < arr.length; i++) {
+//         if (arr[i] < smallestnum) {
+//             smallestnum = arr[i];
+//             console.log(smallestnum)
+//         }
+//     }
+//     // return smallestnum;
 
 
+//     return arr.map(item => Math.min(...item));
+// }
+// console.log(sumMinimums([[[1, 2, 3, 4, 5],[5, 6, 7, 8, 9], [20, 21, 34, 56, 100]]]));
 
-function getMinimum(arr) {
 
-    const output = [];
+// function getMinimum(arr) {
 
-    for (let i = 0; i < arr.length; i++) {
+//     const output = [];
 
-        let min1 = arr[i][0];
-        for (let j = 1; j < arr[i].length; j++) {
+//     for (let i = 0; i < arr.length; i++) {
 
-            if (arr[i][j] < min1  /*arr[i][j-1] */  ) {
+//         let min1 = arr[i][0];
+//         for (let j = 1; j < arr[i].length; j++) {
 
-                min1 = arr[i][j];
+//             if (arr[i][j] < min1  /*arr[i][j-1] */  ) {
 
-            }
+//                 min1 = arr[i][j];
 
-        }
-        output.push(min1);
+//             }
 
-    }
+//         }
+//         output.push(min1);
 
-    return output;
-}
-console.log(getMinimum([[2, 1, 3, 4, 5], [5, 6, 3, 8,], [20, 21, 34, 56, 100], [1, 2, 3]]));
+//     }
+
+//     return output;
+// }
+// console.log(getMinimum([[2, 1, 3, 4, 5], [5, 6, 3, 8,], [20, 21, 34, 56, 100], [1, 2, 3]]));
 
 
 
@@ -68,7 +68,7 @@ function getMinArray(arr) {
     const result = [];
     let i = 0;
     while (i < arr.length) {
-        let min = arr[i][0];
+        let min = arr[i][0]; //1
         for (let j = 1; j < arr[i].length; j++) {
             if (arr[i][j] < arr[i][j - 1]) {
                 min = arr[i][j];
@@ -77,8 +77,8 @@ function getMinArray(arr) {
         i++;
         result.push(min);
     }
-    return result;
+    return result.reduce((a, b) => a + b);
 
 }
 console.log(getMinArray([[1, 2, 3, 4, 5], [5, 6, 7, 8, 9], [20, 21, 34, 56, 100]]));
-console.log(getMinArray([[],[2]]))
+// console.log(getMinArray([[],[2]]))
