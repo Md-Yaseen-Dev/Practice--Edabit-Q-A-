@@ -137,3 +137,5 @@
 ->[64. Less than 100 Array remix](./64.Less%20than%20100%20Array%20remix.js)
 
 ->[65. Sum of Numbers in an Array](./65.Sum%20of%20Numbers%20in%20an%20array.js)
+
+->[66. Buggy upperCase Counting](./66.%20Buggy%20Uppercase%20Counting.js)
