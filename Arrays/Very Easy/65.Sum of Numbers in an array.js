@@ -26,9 +26,9 @@ function arraySum(arr) {
     // const odd = oddsqrt.reduce((a, b) => a + b);
 
 
-    const concat = evensqrt.concat(oddsqrt);
+    const concatArr = evensqrt.concat(oddsqrt);
 
-    const RoundedArr = concat.reduce((a, b) => a + b);
+    const RoundedArr = concatArr.reduce((a, b) => a + b);
 
     return RoundedArr.toFixed(2);
 
