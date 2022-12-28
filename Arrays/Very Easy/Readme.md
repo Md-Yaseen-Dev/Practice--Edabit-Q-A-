@@ -143,3 +143,5 @@
 ->[67. Sum of Even Pairs in an Array](./67.%20Sum%20of%20Even%20Pairs%20in%20Array.js)
 
 ->[68. Move Zeros](./68.%20Move%20Zeroes.js)
+
+->[69. Find the Average](./69.%20Find%20the%20Average%20of%20the%20Letters.js)
