@@ -37,18 +37,23 @@ console.log(stringPairs("airforces"));
 
 // ------ substr
 
-// function stringPairs(str) {
-//     const newArr = []
+function stringPairs1(str) {
+    const newArr = []
 
-//     for (i = 0; i < str.length; i = i + 2) {
+    for (i = 0; i < str.length; i = i + 2) {
 
 
-//         if (str.substr(i, 2).length == 2) {
-//             newArr.push(str.substr(i, 2));
-//         }
-//         else {
-//             newArr.push(str.charAt(str.length - 1) + "*")
-//         }
-//     }
-//     return newArr;
-// }
+        if (str.substr(i, 2).length == 2) {
+            newArr.push(str.substr(i, 2));
+        }
+        else {
+            newArr.push(str.charAt(str.length - 1) + "*")
+        }
+    }
+    return newArr;
+}
+
+console.log(stringPairs1("mubashir"));
+console.log(stringPairs1("edabit"));
+console.log(stringPairs1("airforces"));
+
