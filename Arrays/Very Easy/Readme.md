@@ -145,3 +145,5 @@
 ->[68. Move Zeros](./68.%20Move%20Zeroes.js)
 
 ->[69. Find the Average](./69.%20Find%20the%20Average%20of%20the%20Letters.js)
+
+->[70. String Pairs](./70.%20String%20Pairs.js)
