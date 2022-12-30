@@ -151,3 +151,5 @@
 ->[71.Baseball Batting Average](./71.Baseball%20Batting%20Average.js)
 
 ->[72. Even and Last](./72.%20Even%20and%20Last.js)
+
+->[73. Character in Shapes](./73.Characters%20in%20Shapes.js)
