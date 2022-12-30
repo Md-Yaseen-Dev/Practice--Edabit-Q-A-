@@ -148,6 +148,6 @@
 
 ->[70. String Pairs](./70.%20String%20Pairs.js)
 
-<!-- ->[71.Baseball Batting Average](./) -->
+->[71.Baseball Batting Average](./71.Baseball%20Batting%20Average.js)
 
 ->[72. Even and Last](./72.%20Even%20and%20Last.js)
