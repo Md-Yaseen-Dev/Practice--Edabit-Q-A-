@@ -25,6 +25,8 @@
 
 function countCharacters(arr) {
 
+    // return (arr == 0) ? 0 : arr.join("").length;
+
     return (arr == 0) ? 0 : arr.reduce((a, b) => a + b).length;
 }
 
