@@ -17,14 +17,15 @@
 
 function evenLast(arr) {
     let newArr = []
-    for (i = 0; i < arr.length - 1; i++) {
+    for (i = 0; i < arr.length; i = i + 2) {
 
-        if (arr[i] % 2 == 0) {
+        if (arr[i] > 0) {
             newArr.push(arr[i])
         }
     }
 
-    return (newArr != 0) ? newArr.reduce((a, b) => a * (arr[arr.length - 1]) + b * (arr[arr.length - 1])) : 0;
+    return (arr == 0) ? 0 : newArr.reduce((a, b) => a + b) * arr[arr.length - 1];
+
 
     // return (newArr == 0) ? 0 : newArr.reduce((a, b) => a * (arr[arr.length - 1]) + b * (arr[arr.length - 1]));
 }
