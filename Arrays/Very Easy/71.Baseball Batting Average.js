@@ -18,4 +18,27 @@
 // Notes
 // The number of hits will not exceed the number of official at-bats.
 // The array includes official at-bats only. No other plate-appearances (walks, hit-by-pitches, sacrifices, etc.) are included in the array.
-// HINT: Think in terms of total hits and total at-bats.
+// HINT: Think in terms of total hits and total at-bats..
+
+function battingAvg(arr) {
+
+    let hits = 0;
+    let officalAtbat = 0;
+    for (i = 0; i < arr.length; i++) {
+
+        for (j = 0; j < 1; j++) {
+
+            hits += arr[i][0]
+            officalAtbat += arr[i][1];
+        }
+    }
+
+
+    // return typeof(hits / officalAtbat).toFixed(3).slice(1)
+
+    return (hits /officalAtbat).toPrecision(3).slice(1)
+}
+
+console.log(battingAvg([[0, 0], [1, 3], [2, 2], [0, 4], [1, 5]]));
+console.log(battingAvg([[2, 5], [2, 3], [0, 3], [1, 5], [2, 4]]));
+console.log(battingAvg([[2, 3], [1, 5], [2, 4], [1, 5], [0, 5]]));
