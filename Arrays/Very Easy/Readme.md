@@ -160,3 +160,7 @@
 
 
 ->[76.Cowboy Shootout](./76.Cowboy%20Shootout.js)
+
+->[77.CMS Selector Based on Given String ](./77.CMS%20Selector%20Based%20on%20a%20Given%20String.js)
+
+<!-- ->[78.](./) -->
