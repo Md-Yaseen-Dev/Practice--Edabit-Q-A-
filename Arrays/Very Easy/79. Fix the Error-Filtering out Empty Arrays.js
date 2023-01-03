@@ -18,7 +18,7 @@
 // N/A
 
 function removeEmptyArrays(arr) {
-    return arr.filter(x => x != 0)
+    return arr.filter(x => x != 0);
 }
 
 console.log(removeEmptyArrays(["a", "b", []]));
