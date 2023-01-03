@@ -21,6 +21,7 @@ console.log(spaceMeOut("elongated musk"));
 function spaceMe(str1){
     console.log(...str1);             // is this correct to use spread operator and how to use return in spread opearator
 // return (..str)  ????? why not
+
 }                                
 spaceMe("some");
 spaceMe("far in");

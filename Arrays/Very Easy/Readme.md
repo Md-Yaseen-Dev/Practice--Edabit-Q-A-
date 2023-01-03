@@ -157,3 +157,6 @@
 ->[74.Extremly Over-Nested](./74.%20Extremly%20Over-Nested.js)
 
 ->[75.Convert Number to corresponding monthNam](./75.Convert%20Number%20to%20corresponding%20monthName.js)
+
+
+->[76.Cowboy Shootout](./76.Cowboy%20Shootout.js)

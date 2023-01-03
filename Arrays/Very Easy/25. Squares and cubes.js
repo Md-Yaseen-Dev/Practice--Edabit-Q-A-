@@ -13,34 +13,34 @@
 // If you're stuck, check the Resources for a hint.
 
 
-function checkSquareAndCube(arr) {
-
-    // return (Math.sqrt(arr[0]) == Math.cbrt(arr[1])) ? true : false
-
-    for (let i = 0; i < arr.length; i++) {
-
-        let sqrt = Math.sqrt(arr[i]);
-        let cbrt = Math.cbrt(arr[arr.length - 1]);
-
-        if ((arr[arr.length - 1] / arr[i] == cbrt)) {
-
-            return true;
-        }
-        else {
-            return false;
-        }
-    }
-}
-
 // function checkSquareAndCube(arr) {
-//     let square = Math.sqrt(arr[0]);
-//     let cube = square * square * square;
-//     if (cube === arr[1]) {
-//         return true;
-//     } else {
-//         return false;
+
+//     // return (Math.sqrt(arr[0]) == Math.cbrt(arr[1])) ? true : false
+
+//     for (let i = 0; i < arr.length; i++) {
+
+//         let sqrt = Math.sqrt(arr[i]);
+//         let cbrt = Math.cbrt(arr[arr.length - 1]);
+
+//         if ((arr[arr.length - 1] / arr[i] == cbrt)) {
+
+//             return true;
+//         }
+//         else {
+//             return false;
+//         }
 //     }
 // }
+
+function checkSquareAndCube(arr) {
+    let square = Math.sqrt(arr[0]);
+    let cube = square * square * square;
+    if (cube === arr[1]) {
+        return true;
+    } else {
+        return false;
+    }
+}
 
 console.log(checkSquareAndCube([4, 8]));
 console.log(checkSquareAndCube([16, 48]));
