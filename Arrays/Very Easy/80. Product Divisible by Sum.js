@@ -16,7 +16,7 @@ function divisible(arr) {
     let product = arr.reduce((a, b) => a * b);
     let sum = arr.reduce((a, b) => a + b);
 
-    return product % sum == 0;
+    return (product % sum == 0);
 }
 console.log(divisible([3, 2, 4, 2]));
 console.log(divisible([4, 2, 6]));
