@@ -166,3 +166,7 @@
 ->[78. Unlucky-13](./78.%20Unlucky%2013.js)
 
 ->[79. Fix the Error :- filtering out empty Arrays ](./79.%20Fix%20the%20Error-Filtering%20out%20Empty%20Arrays.js)
+
+->[80. Product Divisible by sum](./80.%20Product%20Divisible%20by%20Sum.js)
+
+->[81. Where is Bob](./81.%20Where%20is%20Bob.js)
