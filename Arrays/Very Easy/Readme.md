@@ -164,3 +164,5 @@
 ->[77.CMS Selector Based on Given String ](./77.CMS%20Selector%20Based%20on%20a%20Given%20String.js)
 
 ->[78. Unlucky-13](./78.%20Unlucky%2013.js)
+
+->[79. Fix the Error :- filtering out empty Arrays ](./79.%20Fix%20the%20Error-Filtering%20out%20Empty%20Arrays.js)
