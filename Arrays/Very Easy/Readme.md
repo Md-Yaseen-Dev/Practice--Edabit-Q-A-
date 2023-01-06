@@ -170,3 +170,8 @@
 ->[80. Product Divisible by sum](./80.%20Product%20Divisible%20by%20Sum.js)
 
 ->[81. Where is Bob](./81.%20Where%20is%20Bob.js)
+
+->[82. Find the Largest number in an array](./82.Find%20the%20Largest%20number%20in%20an%20Array.js)
+
+
+
