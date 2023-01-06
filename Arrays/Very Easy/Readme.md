@@ -120,19 +120,19 @@
 
 ->[56. Factors of a given number](./56.%20Factors%20of%20a%20given%20Number.js)
 
-->[57.Array index](./57.%20Array%20Index.js)
+->[57. Array index](./57.%20Array%20Index.js)
 
-->[58.Chinese Zodiac](./58.%20Chinese%20Zodiac.js)
+->[58. Chinese Zodiac](./58.%20Chinese%20Zodiac.js)
 
-->[59.Arthimetic progression](./59.%20Arthimetic%20progression.js)
+->[59. Arthimetic progression](./59.%20Arthimetic%20progression.js)
 
-->[60.Trimmed Averages](./60.%20Trimmed%20Averages.js)
+->[60. Trimmed Averages](./60.%20Trimmed%20Averages.js)
 
-->[61.Return last item](./61.%20Return%20Last%20item.js)
+->[61. Return last item](./61.%20Return%20Last%20item.js)
 
 ->[62. Age Difference between spouse](./62.%20Age%20Difference%20Between%20Spouses.js)
 
-->[63.Outlier Number](./63.Outlier%20Number.js)
+->[63. Outlier Number](./63.Outlier%20Number.js)
 
 ->[64. Less than 100 Array remix](./64.Less%20than%20100%20Array%20remix.js)
 
@@ -148,20 +148,20 @@
 
 ->[70. String Pairs](./70.%20String%20Pairs.js)
 
-->[71.Baseball Batting Average](./71.Baseball%20Batting%20Average.js)
+->[71. Baseball Batting Average](./71.Baseball%20Batting%20Average.js)
 
 ->[72. Even and Last](./72.%20Even%20and%20Last.js)
 
 ->[73. Character in Shapes](./73.Characters%20in%20Shapes.js)
 
-->[74.Extremly Over-Nested](./74.%20Extremly%20Over-Nested.js)
+->[74. Extremly Over-Nested](./74.%20Extremly%20Over-Nested.js)
 
-->[75.Convert Number to corresponding monthNam](./75.Convert%20Number%20to%20corresponding%20monthName.js)
+->[75. Convert Number to corresponding monthNam](./75.Convert%20Number%20to%20corresponding%20monthName.js)
 
 
-->[76.Cowboy Shootout](./76.Cowboy%20Shootout.js)
+->[76. Cowboy Shootout](./76.Cowboy%20Shootout.js)
 
-->[77.CMS Selector Based on Given String ](./77.CMS%20Selector%20Based%20on%20a%20Given%20String.js)
+->[77. CMS Selector Based on Given String ](./77.CMS%20Selector%20Based%20on%20a%20Given%20String.js)
 
 ->[78. Unlucky-13](./78.%20Unlucky%2013.js)
 
@@ -173,5 +173,10 @@
 
 ->[82. Find the Largest number in an array](./82.Find%20the%20Largest%20number%20in%20an%20Array.js)
 
+->[83. Typing Game](./83.Typing%20Game.js)
+
+->[84. Next element in arthimetic sequence](./84.Next%20element%20in%20Arithimetic%20sequence.js)
+
+->[85. Capture the Rook](./85.%20Capture%20the%20Rook.js)
 
 
