@@ -180,3 +180,12 @@
 ->[85. Capture the Rook](./85.%20Capture%20the%20Rook.js)
 
 
+->[86. Fix the error comparing Arrays (part-2)](./86.%20Fix%20the%20Error%20comparing%20Arrays(part%232).js)
+
+->[87. Word Endings](./87.%20Word%20Endings.js)
+
+->[88. Array of Consective Numbers](./88.%20Array%20of%20consecutive%20Numbers.js)
+
+->[89. Negate the Array of Numbers](./89.%20Negate%20the%20Array%20of%20Numbers.js)
+
+->[90. Return the four letter Strings](./90.%20Return%20th%20e%20four%20letter%20Strings.js)
