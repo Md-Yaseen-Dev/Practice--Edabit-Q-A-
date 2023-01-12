@@ -189,3 +189,8 @@
 ->[89. Negate the Array of Numbers](./89.%20Negate%20the%20Array%20of%20Numbers.js)
 
 ->[90. Return the four letter Strings](./90.%20Return%20th%20e%20four%20letter%20Strings.js)
+
+->[91. Maximum Difference ](./91.%20Maximum%20Difference.js)
+
+<!-- ->[92. Eliminate odd number with an array ](./92.%20Eliminate%20Odd%20numbers%20within%20an%20array.js) -->
+
