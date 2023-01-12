@@ -192,5 +192,5 @@
 
 ->[91. Maximum Difference ](./91.%20Maximum%20Difference.js)
 
-<!-- ->[92. Eliminate odd number with an array ](./92.%20Eliminate%20Odd%20numbers%20within%20an%20array.js) -->
+->[92. Eliminate odd number with an array ](./92.%20Eliminate%20Odd%20numbers%20within%20an%20array.js)
 
