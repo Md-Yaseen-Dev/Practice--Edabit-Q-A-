@@ -194,3 +194,5 @@
 
 ->[92. Eliminate odd number with an array ](./92.%20Eliminate%20Odd%20numbers%20within%20an%20array.js)
 
+->[93. Multiply by length ](./93.%20Multiply%20by%20length.js)
+
