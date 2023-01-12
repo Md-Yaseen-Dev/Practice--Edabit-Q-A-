@@ -196,3 +196,4 @@
 
 ->[93. Multiply by length ](./93.%20Multiply%20by%20length.js)
 
+->[94. Remove null from an array ](./94.%20Remove%20Null%20from%20an%20Array.js)
