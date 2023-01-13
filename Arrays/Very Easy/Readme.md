@@ -201,3 +201,7 @@
 ->[95. Hurdle Jump ](./95.%20Hurdle%20Jump.js)
 
 ->[96. Find the smallest number in an Array ](./96.%20Find%20the%20Smallest%20Number%20in%20an%20Array.js)
+
+->[97. Return the First and Last element in an Array](./97.%20Return%20the%20First%20and%20Last%20elements%20in%20an%20Array.js)
+
+->[98. Sandwich fillings ](./98.%20Sandwich%20Fillings.js)
