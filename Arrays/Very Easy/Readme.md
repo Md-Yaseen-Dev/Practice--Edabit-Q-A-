@@ -197,3 +197,7 @@
 ->[93. Multiply by length ](./93.%20Multiply%20by%20length.js)
 
 ->[94. Remove null from an array ](./94.%20Remove%20Null%20from%20an%20Array.js)
+
+->[95. Hurdle Jump ](./95.%20Hurdle%20Jump.js)
+
+->[96. Find the smallest number in an Array ](./96.%20Find%20the%20Smallest%20Number%20in%20an%20Array.js)
