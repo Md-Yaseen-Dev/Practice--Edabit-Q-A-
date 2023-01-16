@@ -221,3 +221,17 @@
 ->[105. Odd Up, Even down](./105.%20Odd%20Up%2C%20Even%20Down.js)
 
 ->[106. Applying Discount ](./106.%20Applying%20Discount.js)
+
+->[107. Statew Names and Abbrevation ](./107.%20State%20Names%20and%20Abbreviation.js)
+
+->[108. Date Format ](./108.%20Date%20Format.js)
+
+->[109. Repeat the same item multiple times](./109.%20Repeat%20the%20Same%20item%20Multiple%20Times.js)
+
+->[110. RegEx - boundary Assertion -II ](./110.%20RegEx-Boundary%20Assertion%20II.js)
+
+->[111. Return only the integer](./111.%20%20Return%20Only%20the%20Integer.js)
+
+->[112. Calculate Determinant of a 2X2 Matrix](./112.%20Calculate%20Determinant%20of%20a%202X2%20Matrix.js)
+
+->[113. ](./113.%20Exists%20a%20Number%20Higher.js)
