@@ -208,4 +208,16 @@
 
 ->[99. Difference of Max and Min Numbers in an Array ](./99.%20Difference%20of%20Max%20and%20Min%20Numbers%20in%20Array.js)
 
-->[100. Generate Countdown of Number in an array ](./100.%20Generate%20a%20Countdown%20of%20Number%20in%20an%20array.js)
+->[100. Generate Countdown of Number in an array ](./100.%20Generate%20a%20Countdown%20of%20Number%20in%20an%20array.js).
+
+->[101. Find the Bug checking even Numbers ](./101.%20Find%20the%20%20Bug-%20Checking%20even%20numbers.js)
+
+->[102. X and Y Coordinates ](./102.%20X%20and%20Y%20Coordinates.js)
+
+->[103. Additive Inverse ](./103.%20Additive%20Inverse.js)
+
+->[104. Nth smallest Integer ](./104.%20Nth%20Smallest%20Integer.js)
+
+->[105. Odd Up, Even down](./105.%20Odd%20Up%2C%20Even%20Down.js)
+
+->[106. Applying Discount ](./106.%20Applying%20Discount.js)
