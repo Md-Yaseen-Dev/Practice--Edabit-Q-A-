@@ -17,14 +17,6 @@
 // N/A
 
 
-// function same(arr1) {
-
-//   return  arr1.filter((item, index) => arr1.indexOf(item) !== index )
-// }
-// console.log(same([1, 3, 4, 4, 4], [2, 5, 7]));
-// console.log(same([4, 4, 3, 1]));
-
-
 // -------------------------------
 function same(arr1, arr2) {
 
