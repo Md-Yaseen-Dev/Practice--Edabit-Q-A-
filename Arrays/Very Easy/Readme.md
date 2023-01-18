@@ -234,4 +234,19 @@
 
 ->[112. Calculate Determinant of a 2X2 Matrix](./112.%20Calculate%20Determinant%20of%20a%202X2%20Matrix.js)
 
-->[113. ](./113.%20Exists%20a%20Number%20Higher.js)
+->[113. Exists a Number Higher](./113.%20Exists%20a%20Number%20Higher.js)
+
+->[114. Reverse coding challenge-3](./114.%20Reverse%20Coding%20Challenge-3.js)
+
+->[115. Filter by digit length](./115.%20Filter%20by%20Digit%20length.js)
+
+->[116. Even Odd partition](./116.%20Even%20Odd%20Partition.js)
+
+->[117. Fix the Error - Mutating arrays ](./117.%20Fix%20the%20Error%20-%20Mutating%20Arrays.js)
+
+->[118. Check factors](./118.%20Check%20Factors.js)
+
+->[119. Get the file Extension](./119.%20Get%20the%20file%20Extension.js)
+
+->[120. Basic Statisics Mean](./120.%20Basic%20Statistics%20Mean.js)
+
