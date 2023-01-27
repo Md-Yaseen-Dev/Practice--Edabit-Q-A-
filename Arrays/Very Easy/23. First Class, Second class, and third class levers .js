@@ -14,7 +14,7 @@
 // determineLever(["e", "l", "f"]) ➞ "second class lever"
 
 // determineLever(["f", "e", "l"]) ➞ "third class lever"
-// Notes
+// Notes+                 
 // A pair of scissors is a first class lever, a nutcracker is a second class lever and a broom is a third class lever.
 
 function determineLever(arr) {
@@ -28,3 +28,7 @@ console.log(determineLever(["e", "l", "f"]));
 console.log(determineLever(["f", "e", "l"]));
  
 
+
+  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
