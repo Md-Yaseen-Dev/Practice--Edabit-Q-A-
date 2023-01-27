@@ -24,16 +24,5 @@ console.log(minMax([2334454, 5]));
 console.log(minMax([1]));
 
 
-let person = {
-    name: "John"
-};
-let otherPerson = {
-    name: "Jane"
-};
-let sayName = function() {
-    console.log(this.name);
-}.bind(otherPerson);
-
-sayName(); // for bind we 
 
 
