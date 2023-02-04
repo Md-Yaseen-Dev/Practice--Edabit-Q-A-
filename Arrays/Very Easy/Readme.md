@@ -26,19 +26,19 @@
 
 -> [13. Array indexing](./13.%20Array%20Indexing.js)
 
--> [14. Find the index part-1](./14.%20Find%20the%20index(part%201).js)
+-> [14. Find the index part-1](<./14.%20Find%20the%20index(part%201).js>)
 
--> [15. Buggy code part-3](./15.%20Buggy%20code(part%203).js)
+-> [15. Buggy code part-3](<./15.%20Buggy%20code(part%203).js>)
 
--> [16. Find the index part -2](./16.%20Find%20the%20index%20(part%20%232).js)
+-> [16. Find the index part -2](<./16.%20Find%20the%20index%20(part%20%232).js>)
 
 -> [17. Check if an array contains given number](./17.%20Check%20if%20an%20array%20contains%20a%20given%20number.js)
 
--> [18. Stratergy (50-30-20)](./18.%20Strategy(50-30-20).js)
+-> [18. Stratergy (50-30-20)](<./18.%20Strategy(50-30-20).js>)
 
 -> [19. Less than , Greater than](./19.Less%20than%2C%20Greater%20than.js)
 
--> [20. Array of  string to array to numbers](./20.Array%20of%20string%20to%20array%20to%20numbers.js)
+-> [20. Array of string to array to numbers](./20.Array%20of%20string%20to%20array%20to%20numbers.js)
 
 -> [21. Convert all array items to string ](./21.Convert%20all%20array%20items%20to%20string.js)
 
@@ -46,8 +46,7 @@
 
 -> [23. First class, second class, third class](./23.First%20Class%2C%20Second%20class%2C%20and%20third%20class%20levers%20.js)
 
--> [24. Destructring Array- IV](./24.%20Destructuring%20arrays(iv)%20.js)
-
+-> [24. Destructring Array- IV](<./24.%20Destructuring%20arrays(iv)%20.js>)
 
 ->[25. Square and cubes ](25.%20Squares%20and%20cubes.js)
 
@@ -55,11 +54,9 @@
 
 ->[27. Half, Quarter, Eighth ](./27.Half%2C%20Quarter%20and%20Eighth.js)
 
-
 ->[28. Recreating the String.length property](./28.%20Recreating%20the%20String.length%20property.js)
 
 ->[29. Shapes with N sides](./29.Shapes%20with%20N%20sides.js)
-
 
 ->[30. Multiply every array item by two ](./30.%20Multiply%20every%20array%20item%20by%20two.js)
 
@@ -71,18 +68,15 @@
 
 ->[34. Spaces between each character ](./34.%20Spaces%20between%20each%20Character.js)
 
-
 ->[35. Destructuring Array II ](./36.%20Destructuring%20Arrays%20II%20.js)
 
 ->[36. Get the file name ](./35.%20Get%20the%20file%20name.js)
-
 
 ->[37. Get the sum of all array elements](./37.%20Get%20the%20sum%20of%20all%20array%20elements.js)
 
 ->[38. Even or Odd](./39.Even%20or%20add.js)
 
-->[39. Bulgary series 14: adjective total ](./38.%20Burglary%20series(14)%20adjectives%20total.js)
-
+->[39. Bulgary series 14: adjective total ](<./38.%20Burglary%20series(14)%20adjectives%20total.js>)
 
 ->[40. Array from range of numbers ](./40.%20Array%20from%20a%20range%20of%20numbers.js)
 
@@ -94,21 +88,19 @@
 
 ->[44. Difference of volumes of cuboids](./41.%20Difference%20of%20volumesof%20cuboids.js)
 
-->[45. learn lodash:_ fill an array with new values](./45.%20Learn%20lodash_%20fill%20an%20array%20with%20new%20values.js)
+->[45. learn lodash:\_ fill an array with new values](./45.%20Learn%20lodash_%20fill%20an%20array%20with%20new%20values.js)
 
 ->[46. Filter Strings from Array ](./46.%20Filter%20Strings%20from%20Array.js)
 
-
 ->[47. Binary Array to Decimal](./47.%20Binary%20Array%20to%20Decimal.js)
-
 
 ->[48. True ones, False zero](./48.%20True%20ones%2CFalse%20Zeros.js)
 
 ->[49. The Forbidden letter](./49.%20The%20Forbidden%20letter.js)
 
-->[50. Burglary series(11): Say what](./50.%20Burglary%20series(11)%20Say%20what.js)
+->[50. Burglary series(11): Say what](<./50.%20Burglary%20series(11)%20Say%20what.js>)
 
-->[51. Desigining  rugs](./51.%20Designing%20Rugs.js)
+->[51. Desigining rugs](./51.%20Designing%20Rugs.js)
 
 ->[52. Cleaning up messy arrays ](./52.Cleaning%20up%20messy%20arrays.js)
 
@@ -158,7 +150,6 @@
 
 ->[75. Convert Number to corresponding monthNam](./75.Convert%20Number%20to%20corresponding%20monthName.js)
 
-
 ->[76. Cowboy Shootout](./76.Cowboy%20Shootout.js)
 
 ->[77. CMS Selector Based on Given String ](./77.CMS%20Selector%20Based%20on%20a%20Given%20String.js)
@@ -179,8 +170,7 @@
 
 ->[85. Capture the Rook](./85.%20Capture%20the%20Rook.js)
 
-
-->[86. Fix the error comparing Arrays (part-2)](./86.%20Fix%20the%20Error%20comparing%20Arrays(part%232).js)
+->[86. Fix the error comparing Arrays (part-2)](<./86.%20Fix%20the%20Error%20comparing%20Arrays(part%232).js>)
 
 ->[87. Word Endings](./87.%20Word%20Endings.js)
 
@@ -249,4 +239,35 @@
 ->[119. Get the file Extension](./119.%20Get%20the%20file%20Extension.js)
 
 ->[120. Basic Statisics Mean](./120.%20Basic%20Statistics%20Mean.js)
+
+->[121. Product of all odd integer](./121.%20Product%20of%20all%20odd%20integer.js)
+
+->[122. Minimum Removal to make sum even](./122.%20Minimum%20Removals%20to%20make%20sum%20Even.js)
+
+[123. Is sam with food ](./123.%20Is%20Sam%20with%20Frodo.js)
+
+[124. Even Number Generator ](./124.%20Even%20Number%20Generator.js)
+
+[125. Retrieve the last N elements ](./125.%20Retrieve%20the%20Last%20N%20Elements.js)
+
+[126. Say to hello Guests](./126.%20Say%20Hello%20to%20Guests.js)
+
+[127. Lexicographically first and last ](./127.%20%20Lexicographically%20First%20and%20Last.js)
+
+[128. Same number of unique elements ](./128.%20Same%20Number%20of%20Unique%20Elements.js)
+
+[129. Recurson:- Array sum ](./129.%20Recursion_Array%20sum.js)
+
+[130. smallest and biggest numbers ](./130.%20Smallest%20and%20Biggest%20Numbers.js)
+
+[131. check if one array can be nested in another ](./131.%20Check%20if%20one%20array%20can%20be%20nested%20in%20another.js)
+
+[132. Sum of Resistance in series circuits](./132.%20Sum%20of%20Resistance%20in%20%20series%20circuits.js)
+
+[133. Truck in array ](./133.%20tuck%20in%20array.js)
+
+[134. Number split ](./134.%20Number%20split.js)
+
+[135. ](./)
+
 
