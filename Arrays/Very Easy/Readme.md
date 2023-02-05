@@ -268,6 +268,15 @@
 
 [134. Number split ](./134.%20Number%20split.js)
 
-[135. ](./)
+[135. Transform into an array with No duplicates ](./135.%20Transform%20into%20an%20array%20with%20No%20duplicates.js)
 
 
+[136. Filter out string from an array ](./136.%20Filter%20out%20strings%20from%20an%20Array.js)
+
+[137. Sort by string length](./137.%20sort%20by%20string%20length%20%20.js)
+
+[138.Sum of cubes ](./138.%20Sum%20of%20Cubes.js)
+
+[139. Even all the way](./139.%20Even%20all%20the%20way.js)
+
+[140.Sort an array by string length ](./140.%20Sort%20an%20array%20by%20strign%20length.js)
