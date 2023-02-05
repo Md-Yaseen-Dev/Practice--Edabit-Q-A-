@@ -11,10 +11,10 @@
 // Notes
 // N/A
 
-function length(s) {
+function length(str) {
 
     var length = 0;
-    while (s[length] !== undefined) {
+    while (str[length] !== undefined) {
 
         length++
     }
