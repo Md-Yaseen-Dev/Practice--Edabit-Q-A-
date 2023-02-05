@@ -28,18 +28,25 @@
 
 function amplify(n) {
 
-    let newArr = []
-    for (i = 1; i <= n; i++) {
+    // let newArr = []
+    // for (i = 1; i <= n; i++) {
 
-        if (i % 4 == 0) {
+    //     if (i % 4 == 0) {
 
-            newArr.push(i * 10)
-        }
-        else {
-            newArr.push(i)
-        }
-    }
-    return newArr;
+    //         newArr.push(i * 10)
+    //     }
+    //     else {
+    //         newArr.push(i)
+    //     }
+    // }
+    // return newArr;
+
+    // return [...Array(n).keys()] // ------ it will return all index number form o to n
+
+
+    // return Array.from({length : 10} , (_, n) => n +1)    -------- it will print index number from 0 to length but 0 adds 1 so that it will return 1,2,3,4,5,6,7,8,9,10.
+
+    return Array.from({ length: n }, (_, n) => ((n + 1) % 4 == 0) ? (n +1 )* 10 : n + 1)
 }
 
 console.log(amplify(4));
