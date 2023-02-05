@@ -15,7 +15,7 @@
 
 function societyName(arr) {
 
-    return arr.map(elem => [...elem][0]).sort().join("")
+    return arr.map(elem => [...elem][0]).sort().join("");
 }
 console.log(societyName(["Adam", "Sarah", "Malcolm"]));
 
