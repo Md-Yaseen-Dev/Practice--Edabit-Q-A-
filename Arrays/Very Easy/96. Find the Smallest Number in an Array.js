@@ -18,24 +18,43 @@
 
 function findSmallestNum(arr) {
 
-    //----using spread operator  ---- Es6 
+    //----------------------------------using spread operator  ---- Es6 
 
-    return Math.min(...arr);
+    // return Math.min(...arr);
 
 
-    // ----using es5
+    // --------------------------------------using es5--------------------------------------
 
     // return Math.min.apply(Math,arr)
 
 
-    //----------------------------------------- not formal
+    //----------------------------------------- not formal ------------------------------
 
     // arr.sort((a, b) => { return a - b });
     // return arr[0];
 
-    //----using filter method
+
+
+    //---------------------------------------using filter method-------------------
 
     // return arr.filter(smallestNum => smallestNum == Math.min(...arr)).toString();
+
+
+
+    // -----------------------------------------using for loop-------------------------------
+
+    // let smallNum = arr[0];
+
+    // for (i = 1; i < arr.length; i++) {
+
+    //     if (smallNum > arr[i]){
+
+    //         smallNum = arr[i]
+    //     }
+    // }
+    // return smallNum;
+
+    
 }
 console.log(findSmallestNum([34, 15, 88, 2]));
 console.log(findSmallestNum([34, -345, -1, 100]));
