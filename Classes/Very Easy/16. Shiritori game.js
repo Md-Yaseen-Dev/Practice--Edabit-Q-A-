@@ -83,7 +83,7 @@ class Shiritori {
 
 }
 
-my_shiritori = new Shiritori()
+const my_shiritori = new Shiritori()
 
 
 console.log(my_shiritori.play("apple"));
