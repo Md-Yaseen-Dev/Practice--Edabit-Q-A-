@@ -45,3 +45,5 @@
   - >[24. Repeat String](./24.%20Repeat%20String.js)
 
   - > [25. Luke, I am your ](./25.%20Luke%2C%20I%20am%20your.js)
+
+  - > [26. Extract city facts](./26.%20Extract%20city%20facts.js)
