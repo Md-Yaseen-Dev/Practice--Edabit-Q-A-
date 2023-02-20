@@ -38,7 +38,7 @@ class Employee {
 
 emp1 = new Employee("John", "Smith");
 emp2 = new Employee("Mary", "Sue");
-emp3 = new Employee("Antony", "walker")
+emp3 = new Employee("Antony", "walker");
 
 
 console.log(emp1.fullname);
