@@ -279,3 +279,13 @@
 - > [139. Even all the way](./139.%20Even%20all%20the%20way.js)
 
 - > [140.Sort an array by string length ](./140.%20Sort%20an%20array%20by%20strign%20length.js)
+
+- > [141. Burglary series_calculate difference](./141.%20Burglary%20series%20_calculate%20difference.js)
+
+- > [142. Is the Average of all elements a whole number](./142.%20Is%20the%20Average%20of%20all%20elements%20a%20whole%20Number.js)
+
+- > [143. Absoulte sum](./143.%20Absoulte%20sum%20.js)
+
+- > [144. sort Number in ascending order](./144.%20Sort%20Numbers%20in%20ascending%20Order.js)
+
+- >[145. Find the largest Number in a group of arrays](./145.%20Find%20the%20largest%20Numbers%20in%20a%20group%20of%20Arrays.js)
