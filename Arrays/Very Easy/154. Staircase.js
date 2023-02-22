@@ -29,3 +29,6 @@ function staircase(n) {
     return str
 }
 console.log(staircase(6))
+
+
+
